@@ -1,0 +1,27 @@
+body{
+    background:black ;
+    
+}
+th,td,tr{
+    border:solid 5px blue;
+    font-size:80px;
+    text-shadow: 0px 5px 7px blue;
+}
+.web{
+    font-family: Brush Script MT;
+    text-decoration: underline;
+    text-align: center;
+    font-size:80px;
+    letter-spacing: 5px;
+    text-shadow: 0px 2px 4px blue;
+}
+a button{
+    position: relative;
+left: 95%;
+top:40px;
+text-shadow: 0px 10px 10px blue;
+background-color: blue;
+border:none;
+width: 70px;
+height:20px ;
+}
